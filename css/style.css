@@ -830,7 +830,7 @@
   }
   footer .select {
     width: 100% !important;
-    max-height: 21vh !important;
+    max-height: 31vh !important;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
